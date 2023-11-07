@@ -1,4 +1,4 @@
-This project dissecats some approaches for longitudinal data, such as: timeseries, volatility and survival analysis. It has a self-development sake, yet might be a good an important open-reference for specific endeavors. Every notebook is comprehensive and can be approached by itself, as long as the foundational knowledge has been appropriatelly diggested. As it follows, the main references for this project:
+This project pores over some approaches for longitudinal data, such as: time series, volatility, and survival analysis. It has a self-development sake, yet might be an important open-reference for specific endeavors. Every notebook is comprehensive and can be approached by itself, as long as the foundational knowledge has been appropriately digested. As it follows the main references for this project:
 
 
 Time Series: Theory and Methods. Second Edition. Peter J. Brockwell; Richard A. Davis.
